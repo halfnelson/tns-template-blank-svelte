@@ -1,21 +1,21 @@
 <page>
     <actionBar title="Svelte Native App" />
     <gridLayout>
-        <label class="info" horizontalAlignment="center" verticalAlignment="center">
+        <label class="info" horizontalAlignment="center" verticalAlignment="center" textWrap="true">
             <formattedString>
-                <span class="far" text="&#xf135;" />
-                <span text="{message}" />
+                <span class="fas" text="&#xf135;" />
+                <span text=" {message}" />
             </formattedString>
         </label>
     </gridLayout>
 </page>
 
 <script>
-    let message = "Blank Svelte Native app"
+    let message = "Blank Svelte Native App"
 </script>
 
 <style>
-    .far {
+    .info .fas {
         color: #3A53FF;
     }
 

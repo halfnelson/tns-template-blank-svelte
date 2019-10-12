@@ -2,7 +2,8 @@ npm-debug.log
 .DS_Store
 
 *.js.map
-*.js
+package-lock.json
+
 hooks/*
 !hooks/after-createProject/after-createProject.js
 lib/
