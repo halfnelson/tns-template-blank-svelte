@@ -30,6 +30,8 @@ The application root component is located at:
 - `GridLayout` - The main page layout that should contains all the page content.
 
 ## Get Help
+You can learn more at the [Svelte Native Site](https://svelte-native.technology)
+
 The NativeScript framework has a vibrant community that can help when you run into problems.
 
 Try [joining the NativeScript community Discord](https://discordapp.com/invite/tWatGYj). The Discord server is a great place to get help troubleshooting problems, as well as connect with other NativeScript developers.
