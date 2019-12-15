@@ -12,7 +12,7 @@
   "name": "tns-template-blank-svelte",
   "displayName": "Blank Svelte",
   "templateType": "App template",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "description": "Blank template for Svelte Native apps using TypeScript",
   "author": "David Pershouse (https://github.com/halfnelson)",
   "license": "MIT License",
