@@ -12,7 +12,7 @@
   "name": "tns-template-blank-svelte",
   "displayName": "Blank Svelte",
   "templateType": "App template",
-  "version": "6.2.1",
+  "version": "6.2.2",
   "description": "Blank template for Svelte Native apps using TypeScript",
   "author": "David Pershouse (https://github.com/halfnelson)",
   "license": "MIT License",
@@ -36,13 +36,13 @@
   },
   "dependencies": {
     "nativescript-theme-core": "~2.0.24",
-    "svelte-native": "~0.7.0",
-    "tns-core-modules": "~6.2.1"
+    "svelte-native": "~0.7.2",
+    "tns-core-modules": "~6.2.3"
   },
   "devDependencies": {
     "nativescript-dev-webpack": "1.3.0",
-    "svelte": "~3.15.0",
-    "svelte-loader": "github:rixo/svelte-loader#2204a8f7e66e441f5e0ce6e70a5fa0f9e6bb2103",
+    "svelte": "~3.16.4",
+    "svelte-loader": "github:halfnelson/svelte-loader#native",
     "svelte-native-preprocessor": "~0.1.4",
     "typescript": "^3.6.2"
   }
